@@ -1,0 +1,21 @@
+{
+  "name": "mongoeye",
+  "version": "0.0.1",
+  "description": "Mongoeye npm binding",
+  "main": "index.js",
+  "repository": "github:dolbyzerr/mongoeye-node",
+  "engines": {
+    "node": ">=7.6.0"
+  },
+  "scripts": {
+    "install": "node install.js"
+  },
+  "mongoeye": {
+    "tag_name": "v0.3"
+  },
+  "author": "Andrei Terentev",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "extract-zip": "^1.6.5"
+  }
+}
